@@ -5,10 +5,9 @@ import {
   useNavigationType,
   useLocation,
 } from "react-router-dom";
-import HotelsPage from "./pages/HotelsPage";
-import ResultsPage from "./pages/ResultsPage";
-import Homepage from "./pages/Homepage";
-import Instructions from "./pages/Instructions";
+import LandingPage from "./pages/LandingPage";
+import GolfWebsite from "./pages/GolfWebsite";
+import Frame1 from "./pages/Frame";
 
 function App() {
   const action = useNavigationType();
@@ -30,15 +29,11 @@ function App() {
         title = "";
         metaDescription = "";
         break;
-      case "/results-page":
+      case "/1007-golf-website":
         title = "";
         metaDescription = "";
         break;
-      case "/homepage":
-        title = "";
-        metaDescription = "";
-        break;
-      case "/instructions":
+      case "/frame-1":
         title = "";
         metaDescription = "";
         break;
@@ -60,10 +55,9 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={<HotelsPage />} />
-      <Route path="/results-page" element={<ResultsPage />} />
-      <Route path="/homepage" element={<Homepage />} />
-      <Route path="/instructions" element={<Instructions />} />
+      <Route path="/" element={<LandingPage />} />
+      <Route path="/1007-golf-website" element={<GolfWebsite />} />
+      <Route path="/frame-1" element={<Frame1 />} />
     </Routes>
   );
 }

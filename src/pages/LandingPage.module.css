@@ -1,0 +1,35 @@
+.frameAboutUsProjects,
+.landingPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frameAboutUsProjects {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-13xl);
+}
+.landingPage {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-15xl) var(--padding-10xl) 110px var(--padding-11xl);
+  box-sizing: border-box;
+  gap: 108px;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 750px) {
+  .frameAboutUsProjects {
+    gap: var(--gap-base);
+  }
+  .landingPage {
+    gap: 54px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .landingPage {
+    gap: var(--gap-8xl);
+  }
+}

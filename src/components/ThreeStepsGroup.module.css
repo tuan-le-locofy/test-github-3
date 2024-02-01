@@ -1,0 +1,69 @@
+.everythingShouldBe,
+.threeStepsThree {
+  width: 218px;
+  height: 19px;
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+}
+.everythingShouldBe {
+  margin: 0;
+  width: 788px;
+  height: 60px;
+  font-size: var(--font3-size);
+  font-weight: 600;
+  font-family: inherit;
+}
+.messageGroup {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frameParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  font-size: var(--font-size-9xl);
+}
+.threeStepsGroup {
+  width: 1307px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xl);
+  box-sizing: border-box;
+  gap: var(--gap-26xl);
+  text-align: left;
+  font-size: var(--font-size);
+  color: var(--color-black);
+  font-family: var(--font);
+}
+@media screen and (max-width: 1200px) {
+  .frameParent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .everythingShouldBe {
+    font-size: var(--font-size-21xl);
+    line-height: 48px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .threeStepsGroup {
+    gap: var(--gap-3xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .everythingShouldBe {
+    font-size: var(--font-size-11xl);
+    line-height: 36px;
+  }
+}

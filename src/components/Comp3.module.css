@@ -1,0 +1,6 @@
+.comp1 {
+  background-color: var(--color-red);
+  width: 326px;
+  height: 65px;
+  overflow: hidden;
+}

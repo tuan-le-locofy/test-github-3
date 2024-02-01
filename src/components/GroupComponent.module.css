@@ -1,0 +1,139 @@
+.frameChild,
+.rectangleframes {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  width: 100%;
+  height: 100%;
+}
+.rectangleframes {
+  margin: 0 !important;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-gray-300);
+  border: 1px solid var(--gray-color);
+  box-sizing: border-box;
+}
+.frameChild {
+  object-fit: cover;
+  display: none;
+  z-index: 1;
+}
+.managepropertytext,
+.rectangleParent {
+  height: 263px;
+  border-radius: var(--br-sm);
+}
+.managepropertytext {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    115.89deg,
+    rgba(193, 222, 232, 0.7) 9.15%,
+    rgba(255, 255, 255, 0) 52.17%,
+    rgba(251, 217, 185, 0.7) 98.84%
+  );
+  width: 447px;
+  z-index: 2;
+}
+.rectangleParent {
+  align-self: stretch;
+  position: relative;
+  background-image: url(/public/rectangle-19@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 1;
+}
+.loremIpsumDolor,
+.sobhaHearlandIi {
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.sobhaHearlandIi {
+  width: 253px;
+  height: 25px;
+  font-size: var(--font-size-2xl);
+  line-height: 120%;
+  font-weight: 600;
+}
+.loremIpsumDolor {
+  align-self: stretch;
+  height: 48px;
+  line-height: 24px;
+}
+.starinactivebigIcon,
+.starinactivebigIcon1,
+.starinactivebigIcon2,
+.starinactivebigIcon3,
+.starinactivebigIcon4 {
+  height: 17.3px;
+  width: 16.6px;
+  position: relative;
+}
+.stars {
+  height: 18px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 1;
+}
+.backgroundFrame {
+  height: 19px;
+  width: 31px;
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  z-index: 1;
+}
+.starsParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-mini);
+}
+.frameWrapper,
+.rectangleframesParent,
+.sobhaHearlandIiVillasParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.sobhaHearlandIiVillasParent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-mid);
+}
+.frameWrapper,
+.rectangleframesParent {
+  box-sizing: border-box;
+}
+.frameWrapper {
+  width: 377px;
+  flex-direction: row;
+  padding: 0 var(--padding-5xl);
+}
+.rectangleframesParent {
+  flex-direction: column;
+  padding: 0 0 var(--padding-6xl);
+  position: relative;
+  gap: var(--gap-5xl);
+  text-align: left;
+  font-size: var(--font-size);
+  color: var(--color-black);
+  font-family: var(--font);
+}
+@media screen and (max-width: 450px) {
+  .sobhaHearlandIi {
+    font-size: var(--font-size-mid);
+    line-height: 20px;
+  }
+}

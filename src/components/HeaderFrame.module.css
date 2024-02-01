@@ -1,0 +1,345 @@
+.weAreA {
+  margin: 0;
+  width: 785px;
+  height: 120px;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+  max-width: 100%;
+}
+.loremIpsumDolor,
+.theTransferOf,
+.weAreA {
+  position: relative;
+  display: inline-block;
+}
+.theTransferOf {
+  margin: 0;
+  width: 497px;
+  height: 46px;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+}
+.loremIpsumDolor {
+  width: 474px;
+  height: 120px;
+  font-size: var(--font-size);
+  line-height: 24px;
+  max-width: 100%;
+}
+.projectNameText {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.bookNow {
+  height: 19px;
+  width: 86px;
+  position: relative;
+  font-size: var(--font-size);
+  line-height: 120%;
+  font-family: var(--font);
+  color: var(--white);
+  text-align: left;
+  display: inline-block;
+}
+.readMoreButton {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xl) var(--padding-12xl) var(--padding-2xl)
+    var(--padding-16xl);
+  background-color: var(--text-heading-color);
+  border-radius: var(--br-21xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.readMoreButton:hover {
+  background-color: var(--color-dimgray);
+}
+.readMore {
+  height: 19px;
+  width: 89px;
+  position: relative;
+  font-size: var(--font-size);
+  line-height: 120%;
+  font-family: var(--font);
+  color: var(--text-heading-color);
+  text-align: left;
+  display: inline-block;
+}
+.readMoreButton1 {
+  cursor: pointer;
+  border: 1px solid var(--gray-color);
+  padding: var(--padding-xl) var(--padding-11xl) var(--padding-2xl)
+    var(--padding-15xl);
+  background-color: var(--white);
+  border-radius: var(--br-21xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.readMoreButton1:hover {
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+}
+.bookNowButton,
+.servicesListFrame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.servicesListFrame {
+  flex-direction: column;
+  gap: var(--gap-26xl);
+}
+.customers,
+.inputFieldFrame {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+}
+.inputFieldFrame {
+  width: 108px;
+  height: 80px;
+  font-weight: 600;
+}
+.customers {
+  width: 88px;
+  height: 19px;
+  font-size: var(--font-size);
+}
+.subscribeAreaFrame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xs) 0 0;
+  gap: var(--gap-8xs);
+}
+.div,
+.offices {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+}
+.div {
+  width: 114px;
+  height: 80px;
+  font-weight: 600;
+}
+.offices {
+  height: 19px;
+  width: 56px;
+}
+.officesWrapper,
+.subscribeAreaFrame1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.officesWrapper {
+  flex-direction: row;
+  padding: 0 var(--padding-4xs);
+  font-size: var(--font-size);
+}
+.subscribeAreaFrame1 {
+  flex-direction: column;
+  gap: var(--gap-8xs);
+}
+.div1,
+.students {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+}
+.div1 {
+  width: 113px;
+  height: 80px;
+  font-weight: 600;
+}
+.students {
+  width: 71px;
+  height: 19px;
+  font-size: var(--font-size);
+}
+.subscribeAreaFrame2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.officesFrame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  font-size: var(--font1-size);
+}
+.searchBarComponent,
+.subtitleText {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.subtitleText {
+  align-self: stretch;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-61xl);
+}
+.searchBarComponent {
+  width: 520px;
+  padding: 0 0 var(--padding-11xl);
+  box-sizing: border-box;
+  min-width: 520px;
+}
+.frameChild,
+.newsletterSubscribe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+}
+.frameChild {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.newsletterSubscribe {
+  background: linear-gradient(
+    115.89deg,
+    rgba(193, 222, 232, 0.7) 9.15%,
+    rgba(255, 255, 255, 0) 52.17%,
+    rgba(251, 217, 185, 0.7) 98.84%
+  );
+  width: 550px;
+  height: 576px;
+  z-index: 1;
+}
+.rectangleParent {
+  height: 577px;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-sm);
+  background-image: url(/public/group-20@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 357px;
+  max-width: 100%;
+}
+.threeColumnsFrame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-156xl);
+  text-align: left;
+  font-size: var(--font2-size);
+}
+.headerFrame {
+  width: 1245px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-12xl);
+  box-sizing: border-box;
+  gap: var(--gap-26xl);
+  text-align: center;
+  font-size: var(--font3-size);
+  color: var(--color-black);
+  font-family: var(--font);
+}
+@media screen and (max-width: 1200px) {
+  .threeColumnsFrame {
+    gap: var(--gap-68xl);
+  }
+}
+@media screen and (max-width: 1050px) {
+  .weAreA {
+    font-size: var(--font-size-21xl);
+    line-height: 48px;
+  }
+  .theTransferOf {
+    font-size: var(--font-size-11xl);
+    line-height: 36px;
+  }
+  .div,
+  .div1,
+  .inputFieldFrame {
+    font-size: var(--font-size-35xl);
+    line-height: 64px;
+  }
+  .searchBarComponent {
+    flex: 1;
+  }
+  .threeColumnsFrame {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .servicesListFrame {
+    gap: var(--gap-3xl);
+  }
+  .subtitleText {
+    gap: var(--gap-21xl);
+  }
+  .searchBarComponent {
+    min-width: 100%;
+  }
+  .threeColumnsFrame {
+    gap: var(--gap-25xl);
+  }
+  .headerFrame {
+    gap: var(--gap-3xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .weAreA {
+    font-size: var(--font-size-11xl);
+    line-height: 36px;
+  }
+  .theTransferOf {
+    font-size: var(--font-size-4xl);
+    line-height: 27px;
+  }
+  .bookNowButton {
+    flex-wrap: wrap;
+  }
+  .div,
+  .div1,
+  .inputFieldFrame {
+    font-size: var(--font-size-21xl);
+    line-height: 48px;
+  }
+  .officesFrame {
+    flex-wrap: wrap;
+  }
+  .subtitleText {
+    gap: var(--gap-xl);
+  }
+  .rectangleParent {
+    min-width: 100%;
+  }
+  .threeColumnsFrame {
+    gap: var(--gap-3xl);
+  }
+}

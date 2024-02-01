@@ -1,0 +1,11 @@
+.frameChild {
+  position: absolute;
+  top: 57px;
+  left: 60px;
+}
+.frameParent {
+  background-color: var(--color-white);
+  width: 351px;
+  height: 193px;
+  overflow: hidden;
+}

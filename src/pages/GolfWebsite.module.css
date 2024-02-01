@@ -1,0 +1,2743 @@
+.frameChild {
+  position: relative;
+  width: 173.3px;
+  height: 58.4px;
+}
+.home {
+  color: var(--color-teal-200);
+}
+.about,
+.booking,
+.contact,
+.home,
+.season {
+  position: relative;
+  letter-spacing: -0.05em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+}
+.frameParent,
+.frameWrapper,
+.golfWebsiteInner,
+.homeParent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.homeParent {
+  width: 557px;
+  height: 17px;
+  align-items: flex-start;
+  gap: var(--gap-29xl);
+}
+.frameParent,
+.frameWrapper,
+.golfWebsiteInner {
+  height: 58px;
+}
+.frameParent {
+  width: 1265px;
+  align-items: center;
+  gap: 535px;
+}
+.frameWrapper,
+.golfWebsiteInner {
+  width: 1290px;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-6xl);
+  box-sizing: border-box;
+}
+.golfWebsiteInner {
+  height: 87px;
+  padding: 0 0 var(--padding-10xl);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-gotham-pro);
+}
+.golfWebsiteChild {
+  position: absolute;
+  margin: 0 !important;
+  top: -9.6px;
+  right: 184.5px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 534.5px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frameItem {
+  position: relative;
+  background-color: var(--color-whitesmoke-200);
+  width: 1440px;
+  height: 376px;
+  display: none;
+}
+.experience {
+  color: var(--color-teal-200);
+}
+.theUltimateGolfContainer1 {
+  width: 100%;
+}
+.theUltimateGolfContainer {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 110.6%;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  width: 1127px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frameInner {
+  position: absolute;
+  top: -0.3px;
+  left: 0.3px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  box-shadow: 0 20.9px 34.86px rgba(0, 0, 0, 0.04);
+  width: 74.4px;
+  height: 74.4px;
+  z-index: 2;
+}
+.polygonIcon {
+  position: absolute;
+  top: 19.2px;
+  left: 18.3px;
+  border-radius: 2.65px;
+  width: 35.4px;
+  height: 35.4px;
+  object-fit: contain;
+  z-index: 3;
+}
+.ellipseParent,
+.frameContainer {
+  position: relative;
+  width: 74px;
+  height: 74px;
+}
+.frameContainer {
+  margin: 0 !important;
+  position: absolute;
+  top: 57px;
+  right: -70px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.theUltimateGolfExperienceFParent {
+  width: 1127px;
+  height: 285px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.bookingNow {
+  position: relative;
+  letter-spacing: -0.05em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+}
+.bookingNowWrapper {
+  margin: 0 !important;
+  position: absolute;
+  right: 234px;
+  bottom: 7.5px;
+  border-radius: var(--br-191xl);
+  background: linear-gradient(90.97deg, #417461, #4e8a74);
+  width: 247px;
+  height: 69px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-7xl);
+  box-sizing: border-box;
+  z-index: 2;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-gotham-pro);
+}
+.bookingNowWrapper,
+.experience1,
+.frameGroup {
+  display: flex;
+  align-items: center;
+}
+.experience1 {
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 47.6px);
+  left: 2.1px;
+  letter-spacing: -0.01em;
+  line-height: 110.6%;
+  text-transform: uppercase;
+  color: var(--color-teal-200);
+  text-shadow: 1px 0 0#417461, 0 1px 0#417461, -1px 0 0#417461, 0-1px 0#417461;
+  z-index: 2;
+}
+.frameGroup {
+  width: 1127px;
+  height: 285px;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+.rectangleParent {
+  background-color: var(--color-whitesmoke-200);
+  width: 1440px;
+  height: 376px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-34xl) 94px var(--padding-19xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-66xl-7);
+}
+.iconArrowLeft {
+  position: absolute;
+  margin: 0 !important;
+  top: 894.8px;
+  right: -210.3px;
+  width: 32px;
+  height: 30.5px;
+  object-fit: contain;
+}
+.wrapperRectangle27Child {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 16px;
+  transform: scale(1.112);
+}
+.wrapperRectangle27 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 19.91px;
+  width: 733.4px;
+  height: 468.8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperRectangle27Wrapper {
+  position: relative;
+  width: 733.4px;
+  height: 468.8px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 10.5px;
+  left: 0;
+  border-radius: 30.44px;
+  background-color: var(--color-white);
+  width: 399px;
+  height: 458.3px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 0;
+  left: 1.7px;
+  border-radius: 30.44px 30.44px 0 0;
+  width: 397px;
+  height: 338.2px;
+  object-fit: cover;
+  z-index: 1;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 368.9px;
+  left: 301.4px;
+  border-radius: 50%;
+  background-color: var(--color-teal-100);
+  width: 61.2px;
+  height: 61.2px;
+  z-index: 1;
+}
+.iconArrowLeft1 {
+  position: absolute;
+  right: 52px;
+  bottom: 54.2px;
+  width: 32px;
+  height: 30.5px;
+  object-fit: contain;
+  z-index: 1;
+}
+.rectangleGroup {
+  position: absolute;
+  margin: 0 !important;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: -0.3px;
+  bottom: 0;
+  left: 0.3px;
+  box-shadow: 0 15.8px 26.29px rgba(0, 0, 0, 0.04);
+}
+.aRoundOf {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 140.6%;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 212.6px;
+  height: 26.9px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.aRoundOfGolfWrapper {
+  width: 245px;
+  height: 27px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-13xl);
+  box-sizing: border-box;
+}
+.enjoyARefreshing {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 140.6%;
+  display: flex;
+  align-items: center;
+  width: 230.9px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.enjoyARefreshingAndDelicioWrapper {
+  width: 263px;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-13xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-inter);
+}
+.frameWrapper2,
+.groupDiv {
+  width: 399px;
+  height: 469px;
+  display: flex;
+}
+.groupDiv {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 368px 0 var(--padding-8xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-6xs);
+}
+.frameWrapper2 {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frameChild1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 19.91px;
+  width: 733.4px;
+  height: 468.8px;
+  object-fit: cover;
+}
+.rectangleWrapper {
+  position: relative;
+  width: 733.4px;
+  height: 468.8px;
+}
+.frameChild2 {
+  position: absolute;
+  top: 10.5px;
+  left: 0;
+  border-radius: 30.44px;
+  background-color: var(--color-white);
+  width: 399px;
+  height: 458.3px;
+}
+.frameChild3,
+.frameChild4 {
+  position: absolute;
+  z-index: 1;
+}
+.frameChild3 {
+  top: 0;
+  left: 1.7px;
+  border-radius: 30.44px 30.44px 0 0;
+  width: 397px;
+  height: 338.2px;
+  object-fit: cover;
+}
+.frameChild4 {
+  top: 368.9px;
+  left: 301.4px;
+  border-radius: 50%;
+  background-color: var(--color-teal-100);
+  width: 61.2px;
+  height: 61.2px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 15.8px 26.29px rgba(0, 0, 0, 0.04);
+  width: 399px;
+  height: 468.8px;
+}
+.includingTournaments,
+.ourMembersAre {
+  position: absolute;
+  left: 32.1px;
+  letter-spacing: -0.01em;
+  line-height: 140.6%;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.includingTournaments {
+  top: 365px;
+  text-transform: capitalize;
+}
+.ourMembersAre {
+  top: 401.1px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+  color: var(--color-darkslategray-200);
+  width: 230.9px;
+}
+.iconArrowLeft2 {
+  position: absolute;
+  height: 6.51%;
+  width: 8.02%;
+  top: 82.23%;
+  right: 13.01%;
+  bottom: 11.26%;
+  left: 78.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  z-index: 1;
+}
+.frameParent2 {
+  position: relative;
+  width: 399px;
+  height: 468.8px;
+}
+.frameWrapper3 {
+  width: 399px;
+  height: 469px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperRectangle28Child {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 16px;
+  transform: scale(1.112);
+}
+.wrapperRectangle28 {
+  border-radius: 19.91px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperRectangle28,
+.wrapperRectangle28Wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 733.4px;
+  height: 468.8px;
+}
+.frameWrapper4 {
+  position: relative;
+  width: 733.4px;
+  height: 468.8px;
+}
+.frameChild5 {
+  position: absolute;
+  top: 10.5px;
+  left: 0;
+  border-radius: 30.44px;
+  background-color: var(--color-white);
+  width: 399px;
+  height: 458.3px;
+}
+.frameChild6,
+.frameChild7 {
+  position: absolute;
+  z-index: 1;
+}
+.frameChild6 {
+  top: 0;
+  left: 1.7px;
+  border-radius: 30.44px 30.44px 0 0;
+  width: 397px;
+  height: 338.2px;
+  object-fit: cover;
+}
+.frameChild7 {
+  top: 368.9px;
+  left: 301.4px;
+  border-radius: 50%;
+  background-color: var(--color-teal-100);
+  width: 61.2px;
+  height: 61.2px;
+}
+.rectangleParent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 15.8px 26.29px rgba(0, 0, 0, 0.04);
+  width: 399px;
+  height: 468.8px;
+}
+.iconArrowLeft3 {
+  position: absolute;
+  height: 6.51%;
+  width: 8.02%;
+  top: 81.93%;
+  right: 13.06%;
+  bottom: 11.56%;
+  left: 78.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  z-index: 1;
+}
+.tightKnitCommunity,
+.weWelcomeNew {
+  position: absolute;
+  left: 32.1px;
+  letter-spacing: -0.01em;
+  line-height: 140.6%;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.tightKnitCommunity {
+  top: 365px;
+  text-transform: capitalize;
+}
+.weWelcomeNew {
+  top: 401.1px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+  color: var(--color-darkslategray-200);
+  width: 194.5px;
+}
+.frameParent3 {
+  position: relative;
+  width: 399px;
+  height: 468.8px;
+}
+.frameWrapper5 {
+  width: 399px;
+  height: 469px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperRectangle28Item {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 16px;
+  transform: scale(1.112);
+}
+.wrapperRectangle281 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 19.91px;
+  width: 733.4px;
+  height: 468.8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperRectangle28Container {
+  position: relative;
+  width: 733.4px;
+  height: 468.8px;
+}
+.frameChild8 {
+  position: absolute;
+  top: 10.5px;
+  left: 0;
+  border-radius: 30.44px;
+  background-color: var(--color-white);
+  width: 399px;
+  height: 458.3px;
+}
+.frameChild9 {
+  position: absolute;
+  top: 0;
+  left: 1.6px;
+  border-radius: 30.44px 30.44px 0 0;
+  width: 397px;
+  height: 338.2px;
+  object-fit: cover;
+  z-index: 1;
+}
+.frameChild10 {
+  position: absolute;
+  top: 368.9px;
+  left: 301.3px;
+  border-radius: 50%;
+  background-color: var(--color-teal-100);
+  width: 61.2px;
+  height: 61.2px;
+  z-index: 1;
+}
+.rectangleParent2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 15.8px 26.29px rgba(0, 0, 0, 0.04);
+  width: 399px;
+  height: 468.8px;
+}
+.iconArrowLeft4 {
+  position: absolute;
+  height: 6.51%;
+  width: 8.02%;
+  top: 81.93%;
+  right: 13.06%;
+  bottom: 11.56%;
+  left: 78.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  z-index: 1;
+}
+.aRoundOf1,
+.enjoyARefreshing1 {
+  position: absolute;
+  left: 32.1px;
+  letter-spacing: -0.01em;
+  line-height: 140.6%;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.aRoundOf1 {
+  top: 368px;
+  text-transform: capitalize;
+  width: 212.6px;
+  height: 26.9px;
+}
+.enjoyARefreshing1 {
+  top: 401.1px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+  color: var(--color-darkslategray-200);
+  width: 230.9px;
+}
+.frameParent4 {
+  position: relative;
+  width: 399px;
+  height: 468.8px;
+}
+.frameWrapper6 {
+  width: 399px;
+  height: 469px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frameParent1 {
+  width: 4634px;
+  height: 478px;
+  overflow: hidden;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-3xs);
+  gap: 14px;
+  z-index: 2;
+}
+.frameDiv,
+.frameParent1,
+.frameWrapper1,
+.instanceWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.instanceWrapper {
+  width: 1510px;
+  height: 478px;
+  justify-content: flex-start;
+  padding: 0;
+}
+.frameDiv,
+.frameWrapper1 {
+  width: 1440px;
+}
+.frameWrapper1 {
+  height: 478px;
+  justify-content: flex-end;
+  padding: 0;
+}
+.frameDiv {
+  height: 557px;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-60xl);
+  font-size: var(--font-size-4xl);
+}
+.frameChild11,
+.unionIcon {
+  position: relative;
+  display: none;
+}
+.unionIcon {
+  width: 0;
+  height: 0;
+  object-fit: cover;
+  z-index: 5;
+}
+.frameChild11 {
+  background-color: var(--color-teal-200);
+  width: 1483px;
+  height: 515px;
+}
+.vectorIcon {
+  position: absolute;
+  top: 38.7px;
+  left: 7.6px;
+  width: 17.2px;
+  height: 19.8px;
+}
+.bronzeIcon,
+.groupIcon {
+  position: absolute;
+  top: 12.3px;
+  left: 7.2px;
+  width: 10.5px;
+  height: 14.5px;
+}
+.bronzeIcon {
+  height: 61.13%;
+  width: 100%;
+  top: 0.34%;
+  right: 1.2%;
+  bottom: 38.53%;
+  left: -1.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.vectorParent {
+  position: relative;
+  width: 33.3px;
+  height: 58.4px;
+  z-index: 1;
+}
+.ourBigClients {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 110.6%;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.frameParent6 {
+  width: 535px;
+  height: 157px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+}
+.ourGolfClients {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 173.6%;
+  display: flex;
+  align-items: center;
+  width: 534.6px;
+  z-index: 1;
+}
+.ourGolfClientsIncludeSomeWrapper {
+  width: 535px;
+  height: 95px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 11px;
+  box-sizing: border-box;
+  font-size: var(--font-size);
+  font-family: var(--font-inter);
+}
+.frameParent5,
+.frameWrapper9 {
+  height: 157px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frameParent5 {
+  width: 1221px;
+  align-items: flex-end;
+  gap: 151px;
+}
+.frameWrapper9 {
+  width: 1269px;
+  align-items: flex-start;
+  padding: 0 47px 0 0;
+  box-sizing: border-box;
+}
+.layer1Icon {
+  position: relative;
+  width: 120.5px;
+  height: 69.1px;
+  z-index: 1;
+}
+.layer1Wrapper {
+  width: 133px;
+  height: 69px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs) 0 0;
+  box-sizing: border-box;
+}
+.frameChild12 {
+  position: relative;
+  width: 141.3px;
+  height: 48.8px;
+  z-index: 1;
+}
+.frameWrapper11,
+.frameWrapper12 {
+  width: 142px;
+  height: 58px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) 0 0;
+  box-sizing: border-box;
+}
+.frameWrapper11 {
+  width: 154px;
+  padding: 0 var(--padding-xs) 0 0;
+}
+.vectorIcon1 {
+  position: relative;
+  width: 91.3px;
+  height: 50.4px;
+  z-index: 1;
+}
+.frameWrapper13,
+.vectorWrapper {
+  width: 91px;
+  height: 53px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+}
+.frameWrapper13 {
+  width: 103px;
+  padding: 0 var(--padding-xs) 0 0;
+}
+.frameChild13 {
+  position: relative;
+  width: 145.2px;
+  height: 35.7px;
+  z-index: 1;
+}
+.frameWrapper14,
+.frameWrapper15 {
+  width: 146px;
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-sm) 0 0;
+  box-sizing: border-box;
+}
+.frameWrapper14 {
+  width: 158px;
+  padding: 0 var(--padding-xs) 0 0;
+}
+.frameChild14 {
+  position: relative;
+  width: 199.2px;
+  height: 38.7px;
+  z-index: 1;
+}
+.frameWrapper16 {
+  width: 200px;
+  height: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) 0 0;
+  box-sizing: border-box;
+}
+.frameChild15 {
+  position: relative;
+  width: 181.8px;
+  height: 58.1px;
+  z-index: 1;
+}
+.frameParent8 {
+  width: 1245px;
+  height: 72px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 63px;
+}
+.layer1Icon1 {
+  position: relative;
+  width: 159.3px;
+  height: 45.7px;
+  z-index: 1;
+}
+.frameWrapper17,
+.layer1Container {
+  height: 62px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.layer1Container {
+  width: 159px;
+  padding: var(--padding-base) 0 0;
+}
+.frameWrapper17 {
+  width: 178px;
+  padding: 0 19px 0 0;
+}
+.frameChild16 {
+  position: relative;
+  width: 163px;
+  height: 38.8px;
+  z-index: 1;
+}
+.frameWrapper18,
+.frameWrapper19 {
+  width: 164px;
+  height: 52px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-smi) 0 0;
+  box-sizing: border-box;
+}
+.frameWrapper18 {
+  width: 185px;
+  padding: 0 var(--padding-2xl) 0 0;
+}
+.vectorIcon2 {
+  position: relative;
+  width: 255.3px;
+  height: 32.8px;
+  z-index: 1;
+}
+.frameWrapper20,
+.vectorContainer {
+  width: 256px;
+  height: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mini) 0 0;
+  box-sizing: border-box;
+}
+.frameWrapper20 {
+  width: 286px;
+  padding: 0 var(--padding-11xl) 0 0;
+}
+.vectorIcon3,
+.vectorIcon4 {
+  position: relative;
+  width: 105.9px;
+  height: 54.4px;
+  z-index: 1;
+}
+.vectorIcon4 {
+  width: 205.7px;
+  height: 27.8px;
+}
+.frameWrapper21,
+.vectorFrame {
+  height: 42px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.vectorFrame {
+  width: 206px;
+  padding: var(--padding-sm) 0 0;
+}
+.frameWrapper21 {
+  width: 211px;
+  padding: 0 5px 0 0;
+}
+.frameChild17 {
+  position: relative;
+  width: 86.9px;
+  height: 59.4px;
+  z-index: 1;
+}
+.frameParent7,
+.frameParent9,
+.frameWrapper10 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent9 {
+  width: 1228px;
+  height: 62px;
+  flex-direction: row;
+  gap: 35px;
+}
+.frameParent7,
+.frameWrapper10 {
+  height: 182px;
+}
+.frameParent7 {
+  width: 1245px;
+  flex-direction: column;
+  gap: var(--gap-29xl);
+}
+.frameWrapper10 {
+  width: 1266px;
+  flex-direction: row;
+  padding: 0 var(--padding-2xl) 0 0;
+  box-sizing: border-box;
+}
+.frameWrapper7,
+.frameWrapper8,
+.golfWebsiteInner1,
+.rectangleParent3 {
+  height: 518px;
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.rectangleParent3 {
+  background-color: var(--color-teal-200);
+  width: 1483px;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-16xl) var(--padding-16xl) 88px;
+  gap: 56px;
+}
+.frameWrapper7,
+.frameWrapper8,
+.golfWebsiteInner1 {
+  width: 1449px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0;
+}
+.frameWrapper7,
+.golfWebsiteInner1 {
+  width: 1440px;
+  justify-content: flex-end;
+}
+.golfWebsiteInner1 {
+  height: 583px;
+  justify-content: flex-start;
+  padding: 0 0 65px;
+  color: var(--color-white);
+}
+.services,
+.youllDiscoverMore {
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+}
+.youllDiscoverMore {
+  position: relative;
+  line-height: 119.1%;
+  justify-content: center;
+  width: 680px;
+}
+.services {
+  position: absolute;
+  margin: 0 !important;
+  right: 94.6px;
+  bottom: 3px;
+  line-height: 110.6%;
+  color: var(--color-teal-200);
+  text-align: left;
+  text-shadow: 1px 0 0#417461, 0 1px 0#417461, -1px 0 0#417461, 0-1px 0#417461;
+  z-index: 1;
+}
+.youllDiscoverMoreServicesParent {
+  width: 680px;
+  height: 156px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.frameWrapper23 {
+  width: 722px;
+  height: 156px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-23xl);
+  box-sizing: border-box;
+}
+.frameChild18 {
+  position: relative;
+  border-radius: var(--br-3xs);
+  width: 339.7px;
+  height: 322.3px;
+  display: none;
+}
+.frameChild19 {
+  position: absolute;
+  top: 17.4px;
+  left: 15.8px;
+  border-radius: 50%;
+  background: linear-gradient(
+    180deg,
+    rgba(65, 116, 97, 0.13),
+    rgba(65, 116, 97, 0)
+  );
+  width: 22.1px;
+  height: 22.1px;
+  z-index: 1;
+}
+.maskGroupIcon {
+  position: absolute;
+  top: -0.1px;
+  left: -0.1px;
+  width: 87.1px;
+  height: 87.1px;
+  object-fit: cover;
+  z-index: 2;
+}
+.ellipseGroup {
+  position: relative;
+  width: 87px;
+  height: 87px;
+}
+.golfCourse {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 110.6%;
+  text-transform: uppercase;
+  justify-content: center;
+  z-index: 1;
+}
+.golfCourse,
+.golfCourseParent,
+.withAFocus {
+  display: flex;
+  align-items: center;
+}
+.withAFocus {
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: -0.01em;
+  line-height: 140.6%;
+  font-family: var(--font-inter);
+  color: var(--color-darkslategray-200);
+  justify-content: center;
+  width: 230.9px;
+  z-index: 1;
+}
+.golfCourseParent {
+  width: 231px;
+  height: 112px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.frameChild20,
+.vectorGroup {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke-100);
+}
+.vectorGroup {
+  width: 340px;
+  height: 323px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-37xl) var(--padding-36xl) var(--padding-25xl) 54px;
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+}
+.frameChild20 {
+  position: relative;
+  width: 339.7px;
+  height: 322.3px;
+  display: none;
+}
+.frameChild21 {
+  position: absolute;
+  top: 20px;
+  left: 56.9px;
+  border-radius: 50%;
+  background: linear-gradient(
+    180deg,
+    rgba(65, 116, 97, 0.13),
+    rgba(65, 116, 97, 0)
+  );
+  width: 22.1px;
+  height: 22.1px;
+  z-index: 1;
+}
+.maskGroupIcon1 {
+  position: absolute;
+  top: -0.2px;
+  left: 0.4px;
+  width: 84.7px;
+  height: 84.7px;
+  object-fit: cover;
+  z-index: 2;
+}
+.ellipseContainer {
+  position: relative;
+  width: 85px;
+  height: 85px;
+}
+.companysGolfRelatedService,
+.golfInstruction {
+  position: relative;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.golfInstruction {
+  line-height: 110.6%;
+  text-transform: uppercase;
+}
+.companysGolfRelatedService {
+  font-size: var(--font-size-sm);
+  line-height: 140.6%;
+  font-family: var(--font-inter);
+  color: var(--color-darkslategray-200);
+  width: 230.9px;
+}
+.golfInstructionParent {
+  width: 231px;
+  height: 112px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.frameChild22,
+.rectangleParent4 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke-100);
+}
+.rectangleParent4 {
+  width: 340px;
+  height: 324px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-41xl) var(--padding-25xl) var(--padding-25xl);
+  box-sizing: border-box;
+  gap: var(--gap-4xl);
+}
+.frameChild22 {
+  position: relative;
+  width: 339.7px;
+  height: 322.3px;
+  display: none;
+}
+.frameChild23 {
+  position: absolute;
+  top: 51.4px;
+  left: 50.5px;
+  border-radius: 50%;
+  background: linear-gradient(
+    180deg,
+    rgba(65, 116, 97, 0.13),
+    rgba(65, 116, 97, 0)
+  );
+  width: 22.1px;
+  height: 22.1px;
+  z-index: 1;
+}
+.maskGroupIcon2 {
+  position: absolute;
+  top: -0.2px;
+  left: -0.2px;
+  width: 84.7px;
+  height: 84.7px;
+  object-fit: cover;
+  z-index: 2;
+}
+.ellipseParent1 {
+  position: relative;
+  width: 85px;
+  height: 85px;
+}
+.golfEquipment,
+.weCouldProduce {
+  position: relative;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.golfEquipment {
+  line-height: 110.6%;
+  text-transform: uppercase;
+}
+.weCouldProduce {
+  font-size: var(--font-size-sm);
+  line-height: 140.6%;
+  font-family: var(--font-inter);
+  color: var(--color-darkslategray-200);
+  width: 230.9px;
+}
+.golfEquipmentParent {
+  width: 231px;
+  height: 112px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.frameParent12,
+.rectangleParent5 {
+  height: 324px;
+  display: flex;
+  justify-content: flex-start;
+}
+.rectangleParent5 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke-100);
+  width: 340px;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-41xl) var(--padding-25xl) var(--padding-25xl);
+  box-sizing: border-box;
+  gap: var(--gap-4xl);
+}
+.frameParent12 {
+  width: 1070px;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-6xl);
+}
+.moreServices {
+  position: relative;
+  letter-spacing: -0.05em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+}
+.moreServicesWrapper {
+  border-radius: var(--br-191xl);
+  background: linear-gradient(90.97deg, #417461, #4e8a74);
+  width: 254px;
+  height: 69px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-gotham-pro);
+}
+.frameParent11,
+.frameWrapper24,
+.frameWrapper25 {
+  height: 450px;
+  display: flex;
+  justify-content: flex-start;
+}
+.frameParent11 {
+  width: 1070px;
+  flex-direction: column;
+  align-items: center;
+  gap: 57px;
+}
+.frameWrapper24,
+.frameWrapper25 {
+  width: 1112px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-23xl);
+  box-sizing: border-box;
+}
+.frameWrapper24 {
+  height: 496px;
+  padding: 0 0 var(--padding-27xl);
+  font-size: var(--font-size-3xl);
+}
+.confident,
+.qualityCourseConfident {
+  position: relative;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+}
+.qualityCourseConfident {
+  line-height: 119.1%;
+  width: 680px;
+}
+.confident {
+  line-height: 110.6%;
+  color: var(--color-teal-200);
+  text-shadow: 1px 0 0#417461, 0 1px 0#417461, -1px 0 0#417461, 0-1px 0#417461;
+  z-index: 1;
+  margin-top: -75px;
+}
+.qualityCourseConfidentBallParent {
+  width: 680px;
+  height: 156px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.blankLine,
+.ourClubhouseIs,
+.whetherYoureA {
+  margin: 0;
+}
+.whetherYoureAContainer1 {
+  width: 100%;
+}
+.whetherYoureAContainer {
+  position: relative;
+  font-size: var(--font-size);
+  letter-spacing: -0.01em;
+  line-height: 173.6%;
+  font-family: var(--font-inter);
+  color: var(--color-darkslategray-100);
+  display: flex;
+  align-items: center;
+  width: 523px;
+}
+.frameParent15 {
+  width: 680px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.bookingNow1 {
+  position: relative;
+  letter-spacing: -0.05em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+}
+.bookingNowContainer {
+  border-radius: var(--br-191xl);
+  background: linear-gradient(90.97deg, #417461, #4e8a74);
+  width: 247px;
+  height: 69px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xl) var(--padding-37xl) var(--padding-7xl)
+    var(--padding-36xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-gotham-pro);
+}
+.frameParent14,
+.frameWrapper26,
+.frameWrapper27 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent14 {
+  width: 680px;
+  height: 503px;
+  gap: 34px;
+}
+.frameWrapper26,
+.frameWrapper27 {
+  height: 528px;
+  box-sizing: border-box;
+}
+.frameWrapper27 {
+  width: 680px;
+  padding: var(--padding-6xl) 0 0;
+}
+.frameWrapper26 {
+  width: 670px;
+  padding: 0;
+}
+.unionIcon1 {
+  position: relative;
+  width: 528px;
+  height: 592px;
+  z-index: 1;
+}
+.frameParent10,
+.frameParent13 {
+  width: 1198px;
+  display: flex;
+  justify-content: flex-start;
+}
+.frameParent13 {
+  height: 592px;
+  flex-direction: row;
+  align-items: flex-start;
+  text-align: left;
+}
+.frameParent10 {
+  height: 1354px;
+  flex-direction: column;
+  align-items: center;
+  gap: 55px;
+}
+.frameWrapper22,
+.golfWebsiteInner2 {
+  width: 1240px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.frameWrapper22 {
+  height: 1354px;
+  padding: 0 var(--padding-23xl) 0 0;
+}
+.golfWebsiteInner2 {
+  height: 1480px;
+  padding: 0 0 126px;
+  text-align: center;
+}
+.frameChild24 {
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  width: 1519px;
+  height: 555px;
+  display: none;
+  z-index: 0;
+}
+.courses,
+.ourTopRated {
+  position: absolute;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+}
+.ourTopRated {
+  top: 0;
+  left: 0;
+  line-height: 119.1%;
+  justify-content: center;
+  width: 680px;
+  z-index: 1;
+}
+.courses {
+  top: 80px;
+  left: 194px;
+  line-height: 110.6%;
+  color: var(--color-teal-200);
+  text-align: left;
+  text-shadow: 1px 0 0#417461, 0 1px 0#417461, -1px 0 0#417461, 0-1px 0#417461;
+  z-index: 2;
+}
+.ourTopRatedCoursesParent {
+  position: relative;
+  width: 680px;
+  height: 156px;
+}
+.maskGroupIcon3 {
+  position: absolute;
+  margin: 0 !important;
+  top: 56px;
+  left: 702px;
+  width: 87.1px;
+  height: 87.1px;
+  object-fit: cover;
+  z-index: 1;
+}
+.rectangleParent6 {
+  background-color: var(--color-whitesmoke-100);
+  width: 1519px;
+  height: 555px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 171px 433px 228px 406px;
+  box-sizing: border-box;
+  position: relative;
+}
+.frameChild25 {
+  position: relative;
+  border-radius: 30.44px 30.44px 0 0;
+  width: 397px;
+  height: 338.2px;
+  object-fit: cover;
+  z-index: 1;
+}
+.frameChild26 {
+  position: relative;
+  border-radius: 30.44px;
+  background-color: var(--color-white);
+  width: 399px;
+  height: 458.3px;
+  display: none;
+}
+.oldTomMorris,
+.royalCountyDown {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 140.6%;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.royalCountyDown {
+  text-transform: capitalize;
+  width: 212.6px;
+  height: 26.9px;
+  flex-shrink: 0;
+}
+.oldTomMorris {
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+  color: var(--color-darkslategray-200);
+  width: 230.9px;
+}
+.royalCountyDownParent {
+  width: 231px;
+  height: 74px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.frameChild27 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-whitesmoke-100);
+  width: 61.2px;
+  height: 61.2px;
+  z-index: 1;
+}
+.frameChild28 {
+  position: absolute;
+  top: 17px;
+  left: 17px;
+  border-radius: 2.02px;
+  width: 27px;
+  height: 27px;
+  object-fit: contain;
+  z-index: 1;
+}
+.ellipseParent2 {
+  position: relative;
+  width: 61px;
+  height: 61px;
+}
+.frameWrapper32,
+.rectangleParent8 {
+  width: 61px;
+  height: 61px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.rectangleParent8 {
+  border-radius: 30.44px;
+  background-color: var(--color-white);
+  width: 399px;
+  height: 459px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-339xl) var(--padding-13xl) var(--padding-8xl);
+  box-sizing: border-box;
+  gap: var(--gap-19xl);
+  margin-top: -328px;
+}
+.frameWrapper31,
+.rectangleParent7 {
+  width: 399px;
+  height: 469px;
+  display: flex;
+}
+.rectangleParent7 {
+  box-shadow: 0 15.8px 26.29px rgba(0, 0, 0, 0.04);
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frameWrapper31 {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frameChild29 {
+  position: relative;
+  border-radius: 30.44px 30.44px 0 0;
+  width: 397px;
+  height: 338.2px;
+  object-fit: cover;
+  z-index: 1;
+}
+.frameChild30 {
+  position: relative;
+  border-radius: 30.44px;
+  background-color: var(--color-white);
+  width: 399px;
+  height: 458.3px;
+  display: none;
+}
+.builtByAmerican,
+.taraItiGc {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 140.6%;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.taraItiGc {
+  text-transform: capitalize;
+  width: 212.6px;
+  height: 26.9px;
+  flex-shrink: 0;
+}
+.builtByAmerican {
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+  color: var(--color-darkslategray-200);
+  width: 230.9px;
+}
+.taraItiGcParent {
+  width: 231px;
+  height: 74px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.frameChild31 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-whitesmoke-100);
+  width: 61.2px;
+  height: 61.2px;
+  z-index: 1;
+}
+.frameChild32 {
+  position: absolute;
+  top: 17px;
+  left: 17px;
+  border-radius: 2.02px;
+  width: 27px;
+  height: 27px;
+  object-fit: contain;
+  z-index: 1;
+}
+.ellipseParent3 {
+  position: relative;
+  width: 61px;
+  height: 61px;
+}
+.frameWrapper34,
+.rectangleParent10 {
+  width: 61px;
+  height: 61px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.rectangleParent10 {
+  border-radius: 30.44px;
+  background-color: var(--color-white);
+  width: 399px;
+  height: 459px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-339xl) var(--padding-13xl) var(--padding-8xl);
+  box-sizing: border-box;
+  gap: var(--gap-19xl);
+  margin-top: -328px;
+}
+.frameWrapper33,
+.rectangleParent9 {
+  width: 399px;
+  height: 469px;
+  display: flex;
+}
+.rectangleParent9 {
+  box-shadow: 0 15.8px 26.29px rgba(0, 0, 0, 0.04);
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frameWrapper33 {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frameChild33 {
+  position: relative;
+  border-radius: 30.44px 30.44px 0 0;
+  width: 397px;
+  height: 338.2px;
+  object-fit: cover;
+  z-index: 1;
+}
+.frameChild34 {
+  position: relative;
+  border-radius: 30.44px;
+  background-color: var(--color-white);
+  width: 399px;
+  height: 458.3px;
+  display: none;
+}
+.herbertWarrenWind,
+.royalDoenoch {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 140.6%;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.royalDoenoch {
+  text-transform: capitalize;
+  width: 212.6px;
+  height: 26.9px;
+  flex-shrink: 0;
+}
+.herbertWarrenWind {
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+  color: var(--color-darkslategray-200);
+  width: 230.9px;
+}
+.royalDoenochParent {
+  width: 231px;
+  height: 74px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.frameChild35 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-whitesmoke-100);
+  width: 61.2px;
+  height: 61.2px;
+  z-index: 1;
+}
+.frameChild36 {
+  position: absolute;
+  top: 17px;
+  left: 17px;
+  border-radius: 2.02px;
+  width: 27px;
+  height: 27px;
+  object-fit: contain;
+  z-index: 1;
+}
+.ellipseParent4 {
+  position: relative;
+  width: 61px;
+  height: 61px;
+}
+.frameWrapper36,
+.rectangleParent12 {
+  width: 61px;
+  height: 61px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.rectangleParent12 {
+  border-radius: 30.44px;
+  background-color: var(--color-white);
+  width: 399px;
+  height: 459px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-339xl) var(--padding-13xl) var(--padding-8xl);
+  box-sizing: border-box;
+  gap: var(--gap-19xl);
+  margin-top: -328px;
+}
+.frameWrapper35,
+.rectangleParent11 {
+  width: 399px;
+  height: 469px;
+  display: flex;
+}
+.rectangleParent11 {
+  box-shadow: 0 15.8px 26.29px rgba(0, 0, 0, 0.04);
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frameWrapper35 {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frameChild37 {
+  position: relative;
+  border-radius: 30.44px 30.44px 0 0;
+  width: 397px;
+  height: 338.2px;
+  object-fit: cover;
+  z-index: 1;
+}
+.frameChild38 {
+  position: relative;
+  border-radius: 30.44px;
+  background-color: var(--color-white);
+  width: 399px;
+  height: 458.3px;
+  display: none;
+}
+.aTimeless1927,
+.morfontaine {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 140.6%;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.morfontaine {
+  text-transform: capitalize;
+  width: 44px;
+  height: 26px;
+  flex-shrink: 0;
+}
+.aTimeless1927 {
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+  color: var(--color-darkslategray-200);
+  width: 230.9px;
+}
+.morfontaineParent {
+  width: 231px;
+  height: 73px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.frameChild39 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-whitesmoke-100);
+  width: 61.2px;
+  height: 61.2px;
+  z-index: 1;
+}
+.frameChild40 {
+  position: absolute;
+  top: 17px;
+  left: 17px;
+  border-radius: 2.02px;
+  width: 27px;
+  height: 27px;
+  object-fit: contain;
+  z-index: 1;
+}
+.ellipseParent5 {
+  position: relative;
+  width: 61px;
+  height: 61px;
+}
+.frameWrapper38,
+.rectangleParent14 {
+  width: 61px;
+  height: 61px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.rectangleParent14 {
+  border-radius: 30.44px;
+  background-color: var(--color-white);
+  width: 399px;
+  height: 458px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-339xl) var(--padding-13xl) var(--padding-8xl);
+  box-sizing: border-box;
+  gap: var(--gap-19xl);
+  margin-top: -328px;
+}
+.frameWrapper37,
+.rectangleParent13 {
+  width: 399px;
+  height: 469px;
+  display: flex;
+}
+.rectangleParent13 {
+  box-shadow: 0 15.8px 26.29px rgba(0, 0, 0, 0.04);
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frameWrapper37 {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frameParent17 {
+  width: 1340px;
+  height: 469px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  gap: var(--gap-3xl);
+  z-index: 1;
+}
+.frameParent16,
+.frameParent17,
+.frameWrapper30 {
+  display: flex;
+  justify-content: flex-start;
+}
+.frameWrapper30 {
+  width: 1393px;
+  height: 469px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-34xl) 0 0;
+  box-sizing: border-box;
+  margin-top: -186px;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+}
+.frameParent16 {
+  width: 1519px;
+  height: 838px;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.frameWrapper28,
+.frameWrapper29,
+.golfWebsiteInner3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.frameWrapper29 {
+  width: 1466px;
+  height: 838px;
+  justify-content: flex-start;
+  padding: 0;
+}
+.frameWrapper28,
+.golfWebsiteInner3 {
+  width: 1440px;
+}
+.frameWrapper28 {
+  height: 838px;
+  justify-content: flex-end;
+  padding: 0;
+}
+.golfWebsiteInner3 {
+  height: 883px;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-26xl);
+  text-align: center;
+}
+.frameChild41 {
+  position: relative;
+  width: 230px;
+  height: 114.8px;
+}
+.frameWrapper40 {
+  width: 281px;
+  height: 115px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-32xl);
+  box-sizing: border-box;
+}
+.frameChild42 {
+  position: absolute;
+  margin: 0 !important;
+  top: -79px;
+  left: -100px;
+  background-color: var(--color-whitesmoke-100);
+  width: 272px;
+  height: 737px;
+}
+.rectangleParent15,
+.unionIcon2 {
+  width: 528px;
+  height: 592px;
+  position: relative;
+}
+.unionIcon2 {
+  z-index: 1;
+}
+.rectangleParent15 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameChild43 {
+  position: relative;
+  width: 174px;
+  height: 38px;
+}
+.frameWrapper42 {
+  width: 181px;
+  height: 38px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 7px;
+  box-sizing: border-box;
+}
+.golferForMany,
+.years {
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+}
+.golferForMany {
+  position: relative;
+  line-height: 119.1%;
+  width: 574px;
+}
+.years {
+  position: absolute;
+  margin: 0 !important;
+  right: 164px;
+  bottom: 3px;
+  line-height: 110.6%;
+  color: var(--color-teal-200);
+  text-shadow: 1px 0 0#417461, 0 1px 0#417461, -1px 0 0#417461, 0-1px 0#417461;
+  z-index: 1;
+}
+.frameParent22,
+.golferForManyYearsParent {
+  width: 574px;
+  display: flex;
+  flex-direction: column;
+}
+.golferForManyYearsParent {
+  height: 156px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.frameParent22 {
+  height: 209px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+  font-family: var(--font-sagata-normal-sans);
+}
+.blankLine1,
+.iHaveBeen,
+.theHighResolutionImages {
+  margin: 0;
+}
+.iHaveBeenContainer1 {
+  width: 100%;
+}
+.iHaveBeenContainer {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 173.6%;
+  display: flex;
+  align-items: center;
+  width: 523px;
+  flex-shrink: 0;
+}
+.iHaveBeenAnAvidGolferForWrapper {
+  width: 523px;
+  height: 212px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-base);
+  box-sizing: border-box;
+  font-size: var(--font-size);
+  color: var(--color-darkslategray-100);
+}
+.lineDiv {
+  position: relative;
+  border-top: 1px solid #e9e9e9;
+  box-sizing: border-box;
+  width: 508px;
+  height: 1px;
+}
+.charlotteM,
+.projectManager {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 173.6%;
+  display: flex;
+  align-items: center;
+}
+.projectManager {
+  font-size: var(--font-size);
+  color: var(--color-darkslategray-100);
+}
+.charlotteMParent {
+  width: 154px;
+  height: 75px;
+  gap: 2px;
+}
+.charlotteMParent,
+.frameParent21,
+.frameWrapper41,
+.lineParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.lineParent {
+  width: 510px;
+  height: 90px;
+  gap: var(--gap-mini);
+  font-size: 26px;
+  color: var(--color-teal-200);
+}
+.frameParent21,
+.frameWrapper41 {
+  width: 574px;
+}
+.frameParent21 {
+  height: 545px;
+  gap: var(--gap-mid);
+}
+.frameWrapper41 {
+  height: 555px;
+  padding: var(--padding-3xs) 0 0;
+  box-sizing: border-box;
+}
+.frameParent19,
+.frameParent20 {
+  width: 1189px;
+  display: flex;
+  justify-content: flex-start;
+}
+.frameParent20 {
+  height: 592px;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-68xl);
+}
+.frameParent19 {
+  height: 803px;
+  flex-direction: column;
+  align-items: center;
+  gap: 96px;
+}
+.frameChild44 {
+  position: relative;
+  width: 130px;
+  height: 18px;
+}
+.frameWrapper43 {
+  width: 343px;
+  height: 18px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 213px;
+  box-sizing: border-box;
+}
+.frameParent18,
+.frameWrapper39,
+.golfWebsiteInner4 {
+  height: 852px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent18 {
+  width: 1189px;
+  flex-direction: column;
+  gap: 31px;
+}
+.frameWrapper39,
+.golfWebsiteInner4 {
+  width: 1240px;
+  flex-direction: row;
+  padding: 0 var(--padding-32xl) 0 0;
+  box-sizing: border-box;
+}
+.golfWebsiteInner4 {
+  height: 974px;
+  padding: 0 0 var(--padding-103xl);
+  font-family: var(--font-inter);
+}
+.frameChild45 {
+  position: relative;
+  background-color: var(--color-teal-100);
+  width: 1486px;
+  height: 539px;
+  display: none;
+}
+.frameChild46 {
+  position: relative;
+  width: 173.3px;
+  height: 58.4px;
+  z-index: 1;
+}
+.ourClubhouseIs1 {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 173.6%;
+  display: flex;
+  align-items: center;
+  width: 304px;
+  z-index: 1;
+}
+.iconFacebook {
+  position: relative;
+  width: 29.9px;
+  height: 29.9px;
+  z-index: 1;
+}
+.iconGoogle1,
+.iconInstagram,
+.iconYoutube {
+  position: relative;
+  width: 29.9px;
+  height: 30px;
+  z-index: 1;
+}
+.iconGoogle1,
+.iconYoutube {
+  width: 30.1px;
+  height: 24.1px;
+}
+.iconGoogle1 {
+  width: 29.1px;
+  height: 29.7px;
+}
+.iconFacebookParent {
+  width: 179px;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 19px;
+}
+.frameParent24,
+.frameWrapper46 {
+  width: 304px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent24 {
+  height: 198px;
+  gap: var(--gap-8xl);
+}
+.frameWrapper46 {
+  height: 213px;
+  padding: var(--padding-mini) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size);
+  font-family: var(--font-inter);
+}
+.menu {
+  font-size: var(--font-size-9xl);
+}
+.about1,
+.booking1,
+.home1,
+.menu,
+.season1 {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 173.6%;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.frameWrapper47,
+.menuParent {
+  height: 269px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.menuParent {
+  width: 90px;
+  gap: var(--gap-mid);
+}
+.frameWrapper47 {
+  width: 135px;
+  padding: 0 var(--padding-26xl) 0 0;
+  box-sizing: border-box;
+}
+.contact1,
+.iconLocation {
+  position: relative;
+  z-index: 1;
+}
+.contact1 {
+  font-size: var(--font-size-9xl);
+  letter-spacing: -0.01em;
+  line-height: 173.6%;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+}
+.iconLocation {
+  width: 20px;
+  height: 23.1px;
+}
+.streetAustralia {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 173.6%;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.iconLocationParent {
+  width: 234px;
+  height: 38px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-smi);
+}
+.iconCall {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  z-index: 1;
+}
+.div,
+.iconCallParent {
+  display: flex;
+  align-items: center;
+}
+.div {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 173.6%;
+  text-transform: uppercase;
+  z-index: 1;
+}
+.iconCallParent {
+  width: 169px;
+  height: 38px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-smi);
+}
+.vectorIcon5 {
+  position: relative;
+  width: 23px;
+  height: 23.1px;
+  z-index: 1;
+}
+.streetAustralia1 {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 173.6%;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.vectorParent1 {
+  width: 237px;
+  height: 38px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-smi);
+}
+.contactParent,
+.frameWrapper48 {
+  height: 214px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contactParent {
+  width: 237px;
+  gap: var(--gap-mid);
+}
+.frameWrapper48 {
+  width: 285px;
+  padding: 0 48px 0 0;
+  box-sizing: border-box;
+}
+.gallery {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 173.6%;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.frameChild47,
+.frameChild48 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  z-index: 1;
+}
+.rectangleParent17 {
+  width: 205px;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.frameChild49,
+.frameChild50 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  z-index: 1;
+}
+.rectangleParent18 {
+  width: 205px;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.frameParent25 {
+  width: 205px;
+  height: 205px;
+  flex-direction: column;
+  gap: var(--gap-8xs);
+}
+.frameParent23,
+.frameParent25,
+.frameWrapper45,
+.galleryParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.galleryParent {
+  width: 205px;
+  height: 264px;
+  flex-direction: column;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-9xl);
+}
+.frameParent23,
+.frameWrapper45 {
+  height: 269px;
+  flex-direction: row;
+}
+.frameParent23 {
+  width: 1151px;
+  gap: 74px;
+}
+.frameWrapper45 {
+  width: 1242px;
+  padding: 0 var(--padding-72xl) 0 0;
+  box-sizing: border-box;
+}
+.frameChild51 {
+  position: relative;
+  border-top: 0.5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1240.5px;
+  height: 0.5px;
+  z-index: 1;
+}
+.broneAllRights,
+.lineGroup {
+  display: flex;
+  align-items: center;
+}
+.broneAllRights {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 173.6%;
+  text-transform: uppercase;
+  z-index: 1;
+}
+.lineGroup {
+  width: 1240px;
+  height: 70px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+}
+.frameWrapper44,
+.rectangleParent16 {
+  height: 539px;
+  justify-content: flex-start;
+}
+.rectangleParent16 {
+  background-color: var(--color-teal-100);
+  width: 1486px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 101px var(--padding-13xl) var(--padding-13xl);
+  box-sizing: border-box;
+  gap: 67px;
+}
+.frameWrapper44 {
+  width: 1463px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0;
+}
+.frameWrapper44,
+.golfWebsite,
+.golfWebsiteInner5 {
+  display: flex;
+  box-sizing: border-box;
+}
+.golfWebsiteInner5 {
+  width: 1440px;
+  height: 539px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.golfWebsite {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 5518px;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-19xl) 0 0;
+  gap: 1px;
+  text-align: left;
+  font-size: var(--font-size-46xl-7);
+  color: var(--color-black);
+  font-family: var(--font-sagata-normal-sans);
+}
